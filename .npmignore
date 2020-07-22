@@ -1,0 +1,10 @@
+coverage/
+node_modules/
+package-lock.json
+test/
+tools/
+PREVIEW.md
+.editorconfig
+.eslint*
+.prettierrc
+.travis.yml
